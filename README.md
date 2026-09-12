@@ -1,4 +1,4 @@
-![Biscuit Protector](https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd)
+<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
 # biscuit_protector 🍪🛡️
 
@@ -12,23 +12,23 @@
 - Member 2: Anandhu Krishna S - Lourdes Matha College of Science and Technology
 
 ### Project Description
-Biscuit Protector is an unnecessarily advanced security system designed to protect biscuits from unauthorized snack attacks.
+**Biscuit Protector** is an unnecessarily advanced security system designed to protect biscuits from unauthorized snack attacks.
 
-It detects when someone tries to grab the biscuits using an ultrasonic sensor, triggers an alarm, displays the current status on the OLED, and sends the alert to the user's phone through the connected application.
+It detects when someone tries to grab the biscuits using an ultrasonic sensor, sounds an alarm, displays the status on the OLED, and sends a notification to the user's phone through the connected application.
 
 ### The Problem (that doesn't exist)
 People keep stealing biscuits.
 
-Friends, roommates, classmates, family members — anyone can become a potential biscuit thief when nobody is watching.
+Friends, roommates, classmates, and even family members can become potential biscuit thieves when nobody is watching.
 
-We decided this completely imaginary crisis needed a highly sophisticated technological solution.
+Clearly, this extremely serious problem required an unnecessarily complicated technological solution.
 
 ### The Solution (that nobody asked for)
 We built **Biscuit Protector** — a security system dedicated to protecting a biscuit box as if it contained classified government documents.
 
-The ultrasonic sensor monitors the area around the biscuit box. When someone gets close enough to attempt a biscuit theft, the system detects the suspicious activity, sounds an alarm, updates the OLED display, and signals the user's phone.
+The ultrasonic sensor monitors the area around the biscuit box. When someone gets close enough to attempt a biscuit theft, the system detects the suspicious activity, triggers an alarm, updates the OLED display, and signals the user's phone.
 
-Because apparently hiding the biscuit wasn't secure enough.
+Because apparently hiding the biscuits was not secure enough.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -36,9 +36,9 @@ For Software:
 - C++
 - Flutter
 - Arduino IDE
-- Embedded systems programming
-- Sensor interfacing
-- Mobile application communication
+- Embedded Systems Programming
+- Sensor Interfacing
+- Mobile Application
 
 For Hardware:
 - Arduino Uno
@@ -53,7 +53,7 @@ For Hardware:
 - Breadboard
 - Jumper Wires
 - Cardboard Box
-- USB cables / power connections
+- USB / Power Connections
 
 ### Implementation
 For Software:
@@ -61,17 +61,16 @@ For Software:
 # Installation
 
 ### Arduino
-1. Install Arduino IDE.
-2. Connect the Arduino board to the computer using USB.
-3. Install the required sensor and display libraries.
+1. Install **Arduino IDE**.
+2. Connect the controller to the computer through USB.
+3. Install the required libraries.
 4. Open the Biscuit Protector Arduino source code.
 5. Select the correct board and COM port.
-6. Upload the code.
+6. Upload the program.
 
 ### Flutter App
-1. Install Flutter SDK.
-2. Clone the project repository.
-3. Install the required Flutter dependencies.
+
+Install Flutter and clone the project repository.
 
 ```bash
 flutter pub get
